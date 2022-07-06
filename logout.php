@@ -4,6 +4,6 @@
 	
 	session_unset();
 	
-	header('Location: index.php');
+	header('Location: https://thematx7.github.io/AlfaLog/');
 
 ?>
